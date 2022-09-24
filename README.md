@@ -5,5 +5,5 @@
 
 ### Fonctionalities
 
-[] View render with Jsx  <br>
+[] View rendering <br>
 [] Routers 
