@@ -1,5 +1,5 @@
 # chaps js
-## he new best js framework
+## it's new best js framework
 
 <h3>State : <strong>...in development <strong></h3>
 
