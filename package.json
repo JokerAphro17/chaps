@@ -1,0 +1,26 @@
+{
+  "name": "chapsjs",
+  "version": "1.0.0",
+  "description": "The new best js framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JokerAphro17/chapsjs.git"
+  },
+  "keywords": [
+    "framework",
+    "library",
+    "fast",
+    "js",
+    "SPA"
+  ],
+  "author": "Jokeru17",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JokerAphro17/chapsjs/issues"
+  },
+  "homepage": "https://github.com/JokerAphro17/chapsjs#readme"
+}
